@@ -1,0 +1,22 @@
+In the first two years since the outbreak of the coronavirus disease (COVID-19), the world has recorded a total of about 290 million cases and 4.5 million deaths. On March 11, 2020, the World Health Organization (WHO) declared the COVID-19 outbreak a pandemic, followed by severe educational, economic and social impacts on a global scale. Since COVID-19 is a highly transmissible respiratory disease, the main preventive measures are vaccination and nonpharmacological interventions (NPIs), such as the use of masks and social distancing. However, these interventions need to be widely accepted by the population to be effective, and the media framing of health messages have importance in shaping community risk perceptions of emerging public health issues.
+
+
+
+(search for crisis communication and how it shapes public perception and behaviour)
+
+
+
+"Which emotions are triggered in user comments by different characteristics of COVID-19 online news coverage?"
+
+"Which polarity of sentiments dominate COVID-19 coverage by mainstream news organizations on Twitter in different parts of the world?"
+
+"What is the relationship between the predominance of different topics in the COVID-19 coverage by mainstream news organizations on Twitter in different parts of the world, and the emotions triggered in user comments?"
+
+H: "The users that comment to news with positive valence will express lower levels of negative emotions compared to those who comment to news with negative valence."
+
+@report{,
+   author = {World Health Organization},
+   title = {COVID-19 Weekly Epidemiological Update},
+   url = {https://www.who.int/publications/m/item/weekly-epidemiological-update-on-covid-19---6-january-2022},
+}
+
