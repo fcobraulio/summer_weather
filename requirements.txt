@@ -3,3 +3,7 @@
 
 # external requirements
 pandas
+pycaret
+pandas-profiling
+scikit-learn==0.23 # because of pycaret
+shap
