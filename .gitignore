@@ -77,7 +77,7 @@ target/
 .ipynb_checkpoints/
 
 # exclude raw data from source control by default
-/data/raw/
+#/data/raw/
 
 # exclude archived notebooks
 /notebooks/archive/
